@@ -16,6 +16,9 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 #### The analysis of the election shows that:
 - There were 369,711 votes cast in the election.
 
+
+![results](https://github.com/lgrander/Election-Analysis/blob/main/results%20.png)
+
 #### The candidates were:
   - Charles Casper Stockham
   - Diana DeGette
@@ -28,6 +31,7 @@ A Colorado Board of Elections employee has given you the following tasks to comp
   - Diana DeGette, who received 73.8% of the vote and 272,892 votes.
 
 ## Overview of Election Audit
+
 ### This section provides insight into the the purpose of this election audit analysis.
 
 The purpose of this analysis is to audit the tabulated results for a US congressional precinct in Colorado. This analysis will provide data on the following:
